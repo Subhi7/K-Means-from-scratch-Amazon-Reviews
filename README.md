@@ -1,0 +1,2 @@
+# K-Means-from-scratch-Amazon-Reviews
+I am using a dataset of Amazon reviews. It is compiled of three topics and contains approx 200k reviews. You will read those, convert into TF-IDF form, and use k-means clustering to analyze the results. Finally, check the resulting clusters and see how well-defined are the clusters. The trick is that you have to implement TF-IDF and k-means algorithms yourself!
